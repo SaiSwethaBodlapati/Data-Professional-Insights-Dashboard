@@ -42,6 +42,7 @@ This report presents a comprehensive visualization of the Data Professional Surv
 7. The most important things when looking for a new job they opted for **better salary**.
 ## Conclusion
 The visualizations provide valuable insights into the state of the data profession, highlighting the need for salary equity and job satisfaction enhancement.
+where we can navigate to another page for a detailed happiness score breakdown. Addressing pay equity, career growth, and work-life balance can improve overall job satisfaction in the industry.
 
 For a full interactive experience, please refer to the Power BI dashboard.
 
